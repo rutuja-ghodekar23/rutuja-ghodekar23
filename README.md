@@ -64,12 +64,6 @@ Tech Stack: React.js | Node.js | Express.js | MongoDB | MySQL
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rutuja-ghodekar23&show_icons=true&theme=light&hide_border=true)
-
----
-
 ## Connect With Me
 
 | Platform | Link |
