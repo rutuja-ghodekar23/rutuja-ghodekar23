@@ -76,11 +76,11 @@ Tech Stack: React.js | Node.js | Express.js | MongoDB | MySQL
 
 ## GitHub Stats
 
+[
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rutuja-ghodekar23&show_icons=true&theme=light)
 
-![Rutuja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rutuja-ghodekar23&show_icons=true&theme=default)
-
-
+](https://github.com/rutuja-ghodekar23)
 
 ---
 
